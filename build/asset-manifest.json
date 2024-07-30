@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cloning_socar/static/css/main.e9bef436.css",
+    "main.js": "/cloning_socar/static/js/main.2a18764b.js",
+    "static/js/453.8c81e01f.chunk.js": "/cloning_socar/static/js/453.8c81e01f.chunk.js",
+    "index.html": "/cloning_socar/index.html",
+    "static/media/arrow-down.svg": "/cloning_socar/static/media/arrow-down.17db490b233282f7a619.svg",
+    "main.e9bef436.css.map": "/cloning_socar/static/css/main.e9bef436.css.map",
+    "main.2a18764b.js.map": "/cloning_socar/static/js/main.2a18764b.js.map",
+    "453.8c81e01f.chunk.js.map": "/cloning_socar/static/js/453.8c81e01f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9bef436.css",
+    "static/js/main.2a18764b.js"
+  ]
+}
